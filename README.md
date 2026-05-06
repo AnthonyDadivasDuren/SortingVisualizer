@@ -1,4 +1,4 @@
-# Algorithms and Data Structures - Sorting Visualizer Asignment
+# Algorithms and Data Structures - Sorting Visualizer Assignment
 
 Built with C++ and Raylib.
 
