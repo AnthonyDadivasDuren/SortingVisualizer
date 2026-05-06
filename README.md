@@ -1,4 +1,4 @@
-# Algorithms and Data Structures - Sorting Visualizer
+# Algorithms and Data Structures - Sorting Visualizer Asignment
 
 Built with C++ and Raylib.
 
@@ -8,11 +8,7 @@ Built with C++ and Raylib.
 - Selection Sort visualization
 - Heap Sort visualization
 - Switch between algorithms with 1, 2, and 3
-- Start/pause with Space
-- Reset with R
-- Speed control with Up/Down
-- Displays live comparisons and swaps
-- Displays final comparisons and swaps when sorting is completed
+
 
 ## Controls
 
